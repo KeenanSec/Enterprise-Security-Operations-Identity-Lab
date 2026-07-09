@@ -1,0 +1,6 @@
+# Obsidian workspace config
+.obsidian/
+
+# OS cruft
+.DS_Store
+Thumbs.db
